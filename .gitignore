@@ -1,0 +1,16 @@
+# General OS artifacts
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.*
